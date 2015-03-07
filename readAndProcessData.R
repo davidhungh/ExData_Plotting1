@@ -6,7 +6,7 @@
 # This script will 
 #   - install the necessary packages 
 #   - read data into R
-#   - and processing data 
+#   - and processing data before plotting
 # 
   
 cat("Install dplyr and lubridate package if needed \n")
