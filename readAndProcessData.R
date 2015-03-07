@@ -1,7 +1,7 @@
 # 
 # Coursera Exploratory Data Analysis
 # File:   readAndProcessData.R
-# Date:   6.3.2015
+# Date:   7.3.2015
 # 
 # This script will 
 #   - install the necessary packages 

@@ -2,7 +2,7 @@ mkfirstPlot <- function() {
 # 
 # Coursera Exploratory Data Analysis
 # File:   Plot1.R
-# Date:   6.3.2015
+# Date:   7.3.2015
 # 
 # To run this script
 # Assume that the file "household_power_consumption.txt", "readAndProcess.R" 
